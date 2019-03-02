@@ -1,14 +1,19 @@
 {
   "name": "rebass-styled-components-ts",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "WIP",
+  "main": "",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "typescript",
+    "styled-components",
+    "styled-system",
+    "rebass"
+  ],
+  "author": "Daniel Schleindlsperger <daniel@schleindlsperger.de>",
   "license": "ISC",
   "dependencies": {
     "react": "^16.8.3",
